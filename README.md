@@ -42,13 +42,7 @@ The goal of this project is to:
 
 ---
 
-## 🚀 Future Scope
 
-- Upgrade to **16-bit or 32-bit barrel shifter**.
-- Add **left shift** and **arithmetic shift** support.
-- Use this design in a **custom ALU or processor module**.
-
----
 
 ## 💡 Conclusion
 
